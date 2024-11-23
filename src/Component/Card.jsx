@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import './Card.css';
 
 function Card({image, content, userImg, name, date}){
@@ -19,3 +20,4 @@ function Card({image, content, userImg, name, date}){
 }
 
 export default Card;
+
